@@ -9,7 +9,7 @@
   ╚═════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
 
            [ Bug Bounty Recon & Enumeration Framework ]
-                    Created by  Omar_ahmed
+                    Created by  Omar_ahmed 
 ```
 
 > **geturls** is an all-in-one automated recon framework for bug bounty hunters.  
@@ -36,7 +36,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/geturls.git
+git clone https://github.com/omarahmedalx/geturls.git
 cd geturls
 ```
 
