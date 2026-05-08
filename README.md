@@ -194,14 +194,6 @@ Target Domain
 
 ---
 
-## Disclaimer
-
-> This tool is for **educational purposes** and **authorized security testing only**.  
-> Do **NOT** run this against domains you don't own or don't have explicit permission to test.  
-> The author is not responsible for any misuse.
-
----
-
 ## Author
 
 **Created by Omar_ahmed**
